@@ -4,7 +4,9 @@
 
 ## 下载
 
-打开[版本与下载](https://github.com/duzhe2007/yinguan-releases/releases)，按你的设备选择安装包。每次发布会列出各平台版本、适用的系统或架构，以及文件校验值。
+**[下载最新音馆 1.1.1 体验版](https://github.com/duzhe2007/musicroom/releases/tag/v1.1.1-preview-20261125)**
+
+打开[版本与下载](https://github.com/duzhe2007/musicroom/releases)，按你的设备选择安装包。每次发布会列出各平台版本、适用的系统或架构，以及文件校验值。
 
 | 你要安装到哪里 | 选择对应的附件 |
 | --- | --- |
